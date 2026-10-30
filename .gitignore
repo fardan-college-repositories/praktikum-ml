@@ -1,3 +1,5 @@
 /draf
 
 *.csv
+
+__pycache__
